@@ -1,4 +1,4 @@
-# Repository Name: unity-game-changelog
+# unity-game-changelog
 
 ## Project Description
 
